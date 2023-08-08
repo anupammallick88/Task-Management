@@ -12,7 +12,7 @@ I come from Japan and was born in 1995.3.15 and I love flowers, pets.
 
 I live in Tokyo now and you can find me in anytime.
 
-Please contact me via unicornjameser@gmail.com
+Please contact me via anup88.2010@gmail.com
 
 ## About Laravel
 
@@ -30,7 +30,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Contact
 
-If you like my project or want some project like this, contact me via "unicornjameser@gmail.com" freely.
+If you like my project or want some project like this, contact me via "anup88.2010@gmail.com" freely.
 
 
 # Task-Management
