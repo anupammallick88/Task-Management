@@ -8,9 +8,9 @@ There are some issues till now but I will fix it and make more perfectly.
 
 This project was built by senior full-stack web developer named James Hiro.
 
-I come from Japan and was born in 1995.3.15 and I love flowers, pets.
+I come from India and was born in 02.03.1988 and I love coding and serach for new product idea.
 
-I live in Tokyo now and you can find me in anytime.
+I live in Kolkata now and you can find me in anytime.
 
 Please contact me via anup88.2010@gmail.com
 
